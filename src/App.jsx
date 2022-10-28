@@ -1,12 +1,11 @@
-import { SegundaAula } from "./aulas/SegundaAula"
-import { LoginPage } from "./pages/Login"
-import {TerceiraAula} from "./aulas/TerceiraAula"
+
+import { Dhgames } from "./pages"
 
 function App() {
 
   return (
   
-   <TerceiraAula/>
+   <Dhgames/>
   )
 }
 
