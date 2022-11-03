@@ -1,11 +1,12 @@
 
-import { Dhgames } from "./pages"
+import { SetimaAula } from "./aulas/SetimaAula"
+
 
 function App() {
 
   return (
   
-   <Dhgames/>
+   <SetimaAula/>
   )
 }
 
